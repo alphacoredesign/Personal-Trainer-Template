@@ -1,0 +1,13 @@
+#entroTitle {
+	font-size: 30px;
+	visibility: visible !important;
+	-webkit-animation: slideDown 1s ease;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: inherit;
+	line-height: 1.1;
+	font-weight: 500;
+	font-family: inherit;
+	box-sizing: border-box;
+    font-size: 20px;
+}
